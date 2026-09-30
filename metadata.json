@@ -1,0 +1,6 @@
+{
+  "name": "BFSI SmartDecide AI - Financial Decision Platform",
+  "description": "AI-powered BFSI financial decision-making platform with Loan Eligibility Checker, Credit Score Analyzer, EMI Calculator, AI Financial Advisory, and Google Sheets integration. Built by Yogesh Dike.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
